@@ -16,24 +16,7 @@ We do not take responsibility for the way in which any one uses this application
 
 - - -
 
-## License
 
-This file is part of Damn Vulnerable Web Application (DVWA).
-
-Damn Vulnerable Web Application (DVWA) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-Damn Vulnerable Web Application (DVWA) is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with Damn Vulnerable Web Application (DVWA).  If not, see <https://www.gnu.org/licenses/>.
-
-- - -
 
 ## Internationalisation
 
@@ -44,17 +27,6 @@ If you would like to contribute a translation, please submit a PR. Note though, 
 
 - - -
 
-## Download
-
-While there are various versions of DVWA around, the only supported version is the latest source from the official GitHub repository. You can either clone it from the repo:
-
-```sh
-git clone https://github.com/digininja/DVWA.git
-```
-
-Or [download a ZIP of the files](https://github.com/digininja/DVWA/archive/master.zip).
-
-- - -
 
 ## Installation
 
